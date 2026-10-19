@@ -1,0 +1,32 @@
+/* The résumé page itself. Shared by the in-app preview and the PDF. */
+.resume {
+  --ink: #111;
+  --rule: #222;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  font-size: var(--r-size, 10pt);
+  line-height: 1.25;
+  background: #fff;
+}
+.resume .r-head { text-align: center; margin-bottom: 6pt; }
+.resume .r-name { font-size: 1.9em; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; margin: 0; line-height: 1.1; }
+.resume .r-headline { font-size: 1.08em; letter-spacing: .08em; text-transform: uppercase; margin: 2pt 0 3pt; }
+.resume .r-contact { font-size: .95em; }
+.resume .sep { color: #555; }
+.resume h2 {
+  font-size: 1.05em; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+  border-bottom: 1px solid var(--rule); margin: 7pt 0 3pt; padding-bottom: 1pt;
+}
+.resume p { margin: 0; }
+.resume .r-skill { margin: 1pt 0; }
+.resume .r-job { margin-bottom: 4pt; position: relative; }
+.resume .r-row { display: flex; justify-content: space-between; gap: 12pt; align-items: baseline; }
+.resume .r-dates { white-space: nowrap; }
+.resume .r-role { font-style: italic; }
+.resume ul { margin: 1pt 0 0; padding-left: 13pt; }
+.resume li { margin: .6pt 0; position: relative; }
+.resume .r-edu { margin-top: 1pt; }
+.resume.cover { font-size: 11pt; line-height: 1.45; }
+.resume.cover .r-head { margin-bottom: 18pt; }
+.resume .c-date { margin-bottom: 14pt; }
+.resume .c-body p { margin: 0 0 10pt; }

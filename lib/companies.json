@@ -1,0 +1,3017 @@
+[
+ {
+  "name": "PayPal",
+  "type": "workday",
+  "token": "paypal|wd1|jobs",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Visa",
+  "type": "workday",
+  "token": "visa|wd5|Visa",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Mastercard",
+  "type": "workday",
+  "token": "mastercard|wd1|CorporateCareers",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Capital One",
+  "type": "workday",
+  "token": "capitalone|wd12|Capital_One",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Fiserv",
+  "type": "workday",
+  "token": "fiserv|wd5|EXT",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "FIS (Fidelity National Information Services)",
+  "type": "workday",
+  "token": "fis|wd5|SearchJobs",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Global Payments (TSYS)",
+  "type": "workday",
+  "token": "tsys|wd1|TSYS",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "Worldpay",
+  "type": "workday",
+  "token": "worldpay|wd5|Worldpay_External_Careers_Site",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "NCR Voyix",
+  "type": "workday",
+  "token": "ncr|wd1|ext_us",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "NCR Atleos",
+  "type": "workday",
+  "token": "ncratleos|wd1|ext_atleos_us",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "Elavon",
+  "type": "workday",
+  "token": "usbank|wd1|Elavon_Careers",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "Synchrony",
+  "type": "workday",
+  "token": "synchronyfinancial|wd5|Careers",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Bread Financial",
+  "type": "workday",
+  "token": "alliancedata|wd5|breadfinancial_US",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Green Dot",
+  "type": "workday",
+  "token": "greendotcorp|wd1|GDC",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Block (Square / Cash App)",
+  "type": "greenhouse",
+  "token": "block",
+  "group": "core",
+  "focus": "payments",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Shift4",
+  "type": "workday",
+  "token": "shift4payments|wd108|Shift4_External_CareerSite",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Payoneer",
+  "type": "greenhouse",
+  "token": "payoneer",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Flywire",
+  "type": "workday",
+  "token": "flywire|wd108|FlywireCareers",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "AvidXchange",
+  "type": "greenhouse",
+  "token": "avidxchangeinc",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Bill.com (BILL)",
+  "type": "greenhouse",
+  "token": "billcom",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "BlackLine",
+  "type": "workday",
+  "token": "blackline|wd108|BlackLineCareers",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Coupa",
+  "type": "lever",
+  "token": "coupa",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "HighRadius",
+  "type": "greenhouse",
+  "token": "highradius",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Western Union",
+  "type": "workday",
+  "token": "westernunion|wd5|WesternUnionJobs",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Wex",
+  "type": "workday",
+  "token": "wexinc|wd5|WEXInc",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Fleetcor (Corpay)",
+  "type": "workday",
+  "token": "corpay|wd103|Ext_001",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Q2 Holdings",
+  "type": "workday",
+  "token": "q2ebanking|wd5|Q2",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "nCino",
+  "type": "greenhouse",
+  "token": "ncinoinc",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Truist",
+  "type": "workday",
+  "token": "truist|wd1|Careers",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "Cox Automotive",
+  "type": "workday",
+  "token": "cox|wd1|Cox_External_Career_Site_1",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "The Home Depot (tech)",
+  "type": "workday",
+  "token": "homedepot|wd5|CareerDepot",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "Equifax",
+  "type": "workday",
+  "token": "equifax|wd5|External",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "Cardlytics",
+  "type": "workday",
+  "token": "cardlytics|wd5|CardlyticsExternalCareerSite",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "Greenlight",
+  "type": "lever",
+  "token": "greenlight",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "Calendly",
+  "type": "greenhouse",
+  "token": "calendly",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "Salesloft",
+  "type": "greenhouse",
+  "token": "salesloft",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "OneTrust",
+  "type": "greenhouse",
+  "token": "onetrust",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "Adyen",
+  "type": "greenhouse",
+  "token": "adyen",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Checkout.com",
+  "type": "ashby",
+  "token": "checkout.com",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Wise",
+  "type": "smartrecruiters",
+  "token": "wise",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Nubank",
+  "type": "ashby",
+  "token": "nubank",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Robinhood",
+  "type": "greenhouse",
+  "token": "robinhood",
+  "group": "core",
+  "focus": "payments",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Kraken",
+  "type": "ashby",
+  "token": "kraken.com",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Gemini",
+  "type": "greenhouse",
+  "token": "gemini",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Circle",
+  "type": "workday",
+  "token": "circle|wd1|Circle",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Paxos",
+  "type": "ashby",
+  "token": "paxos",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Fireblocks",
+  "type": "greenhouse",
+  "token": "fireblocks",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Chainalysis",
+  "type": "ashby",
+  "token": "chainalysis-careers",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "MoonPay",
+  "type": "lever",
+  "token": "moonpay",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Tipalti",
+  "type": "greenhouse",
+  "token": "tipaltisolutions",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Navan",
+  "type": "greenhouse",
+  "token": "tripactions",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Gusto",
+  "type": "greenhouse",
+  "token": "gusto",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Marqeta",
+  "type": "ashby",
+  "token": "marqeta-inc",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Toast",
+  "type": "greenhouse",
+  "token": "toast",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Chime",
+  "type": "greenhouse",
+  "token": "chime",
+  "group": "core",
+  "focus": "payments",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "SoFi",
+  "type": "greenhouse",
+  "token": "sofi",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Upstart",
+  "type": "greenhouse",
+  "token": "upstart",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "LendingClub",
+  "type": "workday",
+  "token": "lendingclub|wd1|External",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Upgrade",
+  "type": "greenhouse",
+  "token": "upgrade",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Oportun",
+  "type": "greenhouse",
+  "token": "oportun",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Dave",
+  "type": "ashby",
+  "token": "dave",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "MoneyLion",
+  "type": "ashby",
+  "token": "gen-digital",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Remitly",
+  "type": "workday",
+  "token": "remitly|wd5|Remitly_Careers",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Airwallex",
+  "type": "ashby",
+  "token": "airwallex",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "dLocal",
+  "type": "lever",
+  "token": "dlocal",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Plaid",
+  "type": "ashby",
+  "token": "plaid",
+  "group": "core",
+  "focus": "payments",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Ramp",
+  "type": "ashby",
+  "token": "ramp",
+  "group": "core",
+  "focus": "payments",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Brex",
+  "type": "greenhouse",
+  "token": "brex",
+  "group": "core",
+  "focus": "payments",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Mercury",
+  "type": "greenhouse",
+  "token": "mercury",
+  "group": "core",
+  "focus": "payments",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Modern Treasury",
+  "type": "ashby",
+  "token": "moderntreasury",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Alloy",
+  "type": "greenhouse",
+  "token": "alloy",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Socure",
+  "type": "ashby",
+  "token": "socure",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Sardine",
+  "type": "ashby",
+  "token": "sardine",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Persona",
+  "type": "ashby",
+  "token": "persona",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Betterment",
+  "type": "greenhouse",
+  "token": "betterment",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Wealthfront",
+  "type": "lever",
+  "token": "wealthfront",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Acorns",
+  "type": "ashby",
+  "token": "acorns",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Public.com",
+  "type": "greenhouse",
+  "token": "public",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Carta",
+  "type": "greenhouse",
+  "token": "carta",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Expensify",
+  "type": "ashby",
+  "token": "expensify",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Billtrust",
+  "type": "greenhouse",
+  "token": "billtrust",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Melio",
+  "type": "greenhouse",
+  "token": "melio",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Tala",
+  "type": "lever",
+  "token": "tala",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Stash",
+  "type": "greenhouse",
+  "token": "stashinvest",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Coinbase",
+  "type": "greenhouse",
+  "token": "coinbase",
+  "group": "core",
+  "focus": "payments",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Stripe",
+  "type": "greenhouse",
+  "token": "stripe",
+  "group": "core",
+  "focus": "payments",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Airbnb",
+  "type": "greenhouse",
+  "token": "airbnb",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Instacart",
+  "type": "greenhouse",
+  "token": "instacart",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Pinterest",
+  "type": "greenhouse",
+  "token": "pinterest",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Reddit",
+  "type": "greenhouse",
+  "token": "reddit",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Discord",
+  "type": "greenhouse",
+  "token": "discord",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Dropbox",
+  "type": "greenhouse",
+  "token": "dropbox",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Figma",
+  "type": "greenhouse",
+  "token": "figma",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Datadog",
+  "type": "greenhouse",
+  "token": "datadog",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Cloudflare",
+  "type": "greenhouse",
+  "token": "cloudflare",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Lyft",
+  "type": "greenhouse",
+  "token": "lyft",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Notion",
+  "type": "ashby",
+  "token": "notion",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Databricks",
+  "type": "greenhouse",
+  "token": "databricks",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Roblox",
+  "type": "greenhouse",
+  "token": "roblox",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Anthropic",
+  "type": "greenhouse",
+  "token": "anthropic",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "OpenAI",
+  "type": "ashby",
+  "token": "openai",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Palantir",
+  "type": "lever",
+  "token": "palantir",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "MongoDB",
+  "type": "greenhouse",
+  "token": "mongodb",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Airtable",
+  "type": "greenhouse",
+  "token": "airtable",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Faire",
+  "type": "greenhouse",
+  "token": "faire",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Verkada",
+  "type": "greenhouse",
+  "token": "verkada",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Duolingo",
+  "type": "greenhouse",
+  "token": "duolingo",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Nuro",
+  "type": "greenhouse",
+  "token": "nuro",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Scale AI",
+  "type": "greenhouse",
+  "token": "scaleai",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Samsara",
+  "type": "greenhouse",
+  "token": "samsara",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Vercel",
+  "type": "greenhouse",
+  "token": "vercel",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Asana",
+  "type": "greenhouse",
+  "token": "asana",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Twilio",
+  "type": "greenhouse",
+  "token": "twilio",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Okta",
+  "type": "greenhouse",
+  "token": "okta",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Rubrik",
+  "type": "greenhouse",
+  "token": "rubrik",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Elastic",
+  "type": "greenhouse",
+  "token": "elastic",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "GitLab",
+  "type": "greenhouse",
+  "token": "gitlab",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Squarespace",
+  "type": "greenhouse",
+  "token": "squarespace",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Webflow",
+  "type": "greenhouse",
+  "token": "webflow",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Spotify",
+  "type": "lever",
+  "token": "spotify",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Zapier",
+  "type": "ashby",
+  "token": "zapier",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "PagerDuty",
+  "type": "greenhouse",
+  "token": "pagerduty",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Gong",
+  "type": "smartrecruiters",
+  "token": "Gong",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Klaviyo",
+  "type": "greenhouse",
+  "token": "klaviyo",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Benchling",
+  "type": "ashby",
+  "token": "benchling",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Fivetran",
+  "type": "greenhouse",
+  "token": "fivetran",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Flatiron Health",
+  "type": "greenhouse",
+  "token": "flatironhealth",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Grafana Labs",
+  "type": "greenhouse",
+  "token": "grafanalabs",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Sentry",
+  "type": "ashby",
+  "token": "sentry",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "LaunchDarkly",
+  "type": "greenhouse",
+  "token": "launchdarkly",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Braze",
+  "type": "greenhouse",
+  "token": "braze",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Amplitude",
+  "type": "ashby",
+  "token": "amplitude",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Lattice",
+  "type": "greenhouse",
+  "token": "lattice",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Fastly",
+  "type": "greenhouse",
+  "token": "fastly",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Intercom",
+  "type": "greenhouse",
+  "token": "intercom",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "ServiceTitan",
+  "type": "smartrecruiters",
+  "token": "ServiceTitan",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Thumbtack",
+  "type": "ashby",
+  "token": "thumbtack",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Nextdoor",
+  "type": "greenhouse",
+  "token": "nextdoor",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Flexport",
+  "type": "greenhouse",
+  "token": "flexport",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "1Password",
+  "type": "ashby",
+  "token": "1password",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Peloton",
+  "type": "greenhouse",
+  "token": "peloton",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Wayfair",
+  "type": "smartrecruiters",
+  "token": "Wayfair",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Attentive",
+  "type": "greenhouse",
+  "token": "attentive",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Netlify",
+  "type": "greenhouse",
+  "token": "netlify",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Algolia",
+  "type": "greenhouse",
+  "token": "algolia",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Contentful",
+  "type": "greenhouse",
+  "token": "contentful",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Fullstory",
+  "type": "ashby",
+  "token": "fullstory",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": true
+ },
+ {
+  "name": "Olo",
+  "type": "lever",
+  "token": "olo",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Hopper",
+  "type": "ashby",
+  "token": "hopper",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Headway",
+  "type": "ashby",
+  "token": "headway",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Zocdoc",
+  "type": "greenhouse",
+  "token": "zocdoc",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Calm",
+  "type": "greenhouse",
+  "token": "calm",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Strava",
+  "type": "ashby",
+  "token": "strava",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Ro",
+  "type": "lever",
+  "token": "ro",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Mixpanel",
+  "type": "greenhouse",
+  "token": "mixpanel",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Iterable",
+  "type": "ashby",
+  "token": "iterable",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Carvana",
+  "type": "greenhouse",
+  "token": "carvana",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Miro",
+  "type": "ashby",
+  "token": "miro",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Justworks",
+  "type": "greenhouse",
+  "token": "justworks",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Outreach",
+  "type": "lever",
+  "token": "outreach",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Smartsheet",
+  "type": "greenhouse",
+  "token": "smartsheet",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Uber",
+  "type": "smartrecruiters",
+  "token": "Uber",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Snowflake",
+  "type": "ashby",
+  "token": "snowflake",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Lucid Software",
+  "type": "greenhouse",
+  "token": "lucidsoftware",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Canva",
+  "type": "smartrecruiters",
+  "token": "Canva",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Gopuff",
+  "type": "lever",
+  "token": "gopuff",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Instructure",
+  "type": "ashby",
+  "token": "instructure",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "DoorDash",
+  "type": "greenhouse",
+  "token": "doordashusa",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Wiz",
+  "type": "greenhouse",
+  "token": "wizinc",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Oscar Health",
+  "type": "greenhouse",
+  "token": "oscar",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "SentinelOne",
+  "type": "greenhouse",
+  "token": "sentinellabs",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "DigitalOcean",
+  "type": "greenhouse",
+  "token": "digitalocean98",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Zillow",
+  "type": "workday",
+  "token": "zillow|wd5|Zillow_Group_External",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "TRM Labs",
+  "type": "ashby",
+  "token": "trm-labs",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "BitGo",
+  "type": "greenhouse",
+  "token": "bitgo",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Blockchain.com",
+  "type": "greenhouse",
+  "token": "blockchain",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Consensys",
+  "type": "greenhouse",
+  "token": "consensys",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Alchemy",
+  "type": "ashby",
+  "token": "alchemy",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Phantom",
+  "type": "ashby",
+  "token": "phantom",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Lightspark",
+  "type": "ashby",
+  "token": "lightspark",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Handshake",
+  "type": "ashby",
+  "token": "handshake",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Patreon",
+  "type": "ashby",
+  "token": "patreon",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Substack",
+  "type": "ashby",
+  "token": "substack",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Coursera",
+  "type": "greenhouse",
+  "token": "coursera",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "GoFundMe",
+  "type": "greenhouse",
+  "token": "gofundme",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "AppFolio",
+  "type": "ashby",
+  "token": "appfolio",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "SpotOn",
+  "type": "ashby",
+  "token": "spoton",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Pigment",
+  "type": "lever",
+  "token": "pigment",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Lead Bank",
+  "type": "ashby",
+  "token": "leadbank",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Lendbuzz",
+  "type": "lever",
+  "token": "lendbuzz",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Prosper",
+  "type": "lever",
+  "token": "prosper",
+  "group": "core",
+  "focus": "payments",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Owner",
+  "type": "ashby",
+  "token": "owner",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Jobber",
+  "type": "ashby",
+  "token": "jobber",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Bestow",
+  "type": "ashby",
+  "token": "bestow",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Blend",
+  "type": "greenhouse",
+  "token": "blend",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Branch",
+  "type": "greenhouse",
+  "token": "branch",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Branch Insurance",
+  "type": "ashby",
+  "token": "branchinsurance",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Brigit",
+  "type": "ashby",
+  "token": "brigit",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Capchase",
+  "type": "ashby",
+  "token": "capchase",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Clair",
+  "type": "ashby",
+  "token": "clair",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Column",
+  "type": "ashby",
+  "token": "column",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "DailyPay",
+  "type": "ashby",
+  "token": "dailypay",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "EarnIn",
+  "type": "greenhouse",
+  "token": "earnin",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Emburse",
+  "type": "lever",
+  "token": "emburse",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Episode Six",
+  "type": "greenhouse",
+  "token": "episodesix",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Extend",
+  "type": "greenhouse",
+  "token": "extend",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Figure",
+  "type": "greenhouse",
+  "token": "figure",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Finch",
+  "type": "lever",
+  "token": "finch",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Finix",
+  "type": "lever",
+  "token": "finix",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Florence Healthcare",
+  "type": "greenhouse",
+  "token": "florencehealthcare",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": true
+ },
+ {
+  "name": "Found",
+  "type": "ashby",
+  "token": "found",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Fundrise",
+  "type": "lever",
+  "token": "fundrise",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Highnote",
+  "type": "greenhouse",
+  "token": "highnote",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Hometap",
+  "type": "greenhouse",
+  "token": "hometap",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Kikoff",
+  "type": "greenhouse",
+  "token": "kikoff",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Ladder",
+  "type": "ashby",
+  "token": "ladder",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Lemonade",
+  "type": "ashby",
+  "token": "lemonade",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Lithic",
+  "type": "greenhouse",
+  "token": "lithic",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Middesk",
+  "type": "ashby",
+  "token": "middesk",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Mission Lane",
+  "type": "greenhouse",
+  "token": "missionlane",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "NerdWallet",
+  "type": "ashby",
+  "token": "nerdwallet",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Novo",
+  "type": "ashby",
+  "token": "novo",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Pagaya",
+  "type": "greenhouse",
+  "token": "pagaya",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Payabli",
+  "type": "ashby",
+  "token": "payabli",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Payactiv",
+  "type": "lever",
+  "token": "payactiv",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Paystand",
+  "type": "greenhouse",
+  "token": "paystand",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Pie Insurance",
+  "type": "greenhouse",
+  "token": "pieinsurance",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Possible Finance",
+  "type": "ashby",
+  "token": "possible-finance",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Rain",
+  "type": "ashby",
+  "token": "rain",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Relay",
+  "type": "ashby",
+  "token": "relay",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Rho",
+  "type": "ashby",
+  "token": "rho",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Self Financial",
+  "type": "greenhouse",
+  "token": "selffinancial",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Sezzle",
+  "type": "greenhouse",
+  "token": "sezzle",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Slope",
+  "type": "ashby",
+  "token": "slope",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Snapdocs",
+  "type": "ashby",
+  "token": "snapdocs",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Step",
+  "type": "greenhouse",
+  "token": "step",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Tapcheck",
+  "type": "ashby",
+  "token": "tapcheck",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Titan",
+  "type": "ashby",
+  "token": "titan",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Rocket Money",
+  "type": "greenhouse",
+  "token": "truebill",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Truv",
+  "type": "lever",
+  "token": "truv",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Unit",
+  "type": "ashby",
+  "token": "unit",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Zeta",
+  "type": "lever",
+  "token": "zeta",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Zip",
+  "type": "ashby",
+  "token": "zip",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Thought Machine",
+  "type": "ashby",
+  "token": "thought-machine",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Flex",
+  "type": "greenhouse",
+  "token": "flex",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Obligo",
+  "type": "greenhouse",
+  "token": "obligo",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Cedar",
+  "type": "ashby",
+  "token": "cedar",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Rectangle Health",
+  "type": "greenhouse",
+  "token": "rectanglehealth",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Warp",
+  "type": "ashby",
+  "token": "warp",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Ledger",
+  "type": "ashby",
+  "token": "ledger",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Entrata",
+  "type": "lever",
+  "token": "entrata",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Mysten Labs",
+  "type": "ashby",
+  "token": "mystenlabs",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Elliptic",
+  "type": "ashby",
+  "token": "elliptic",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Happy Money",
+  "type": "greenhouse",
+  "token": "happymoney",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Runway",
+  "type": "ashby",
+  "token": "runway",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Mosaic",
+  "type": "ashby",
+  "token": "mosaic",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Cube",
+  "type": "ashby",
+  "token": "cube",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Weave",
+  "type": "ashby",
+  "token": "weave",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Homebase",
+  "type": "ashby",
+  "token": "homebase",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Shopmonkey",
+  "type": "greenhouse",
+  "token": "shopmonkey",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Tekmetric",
+  "type": "greenhouse",
+  "token": "tekmetric",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Boulevard",
+  "type": "greenhouse",
+  "token": "boulevard",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Zenoti",
+  "type": "greenhouse",
+  "token": "zenoti",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Angi",
+  "type": "ashby",
+  "token": "angi",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Rover",
+  "type": "lever",
+  "token": "rover",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Outschool",
+  "type": "ashby",
+  "token": "outschool",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Guild",
+  "type": "greenhouse",
+  "token": "guild",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Bubble",
+  "type": "ashby",
+  "token": "bubble",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Udemy",
+  "type": "greenhouse",
+  "token": "udemy",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Mural",
+  "type": "ashby",
+  "token": "mural",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Mindbody",
+  "type": "greenhouse",
+  "token": "mindbody",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Jane",
+  "type": "ashby",
+  "token": "jane",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "ezCater",
+  "type": "greenhouse",
+  "token": "ezcaterinc",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "eBay",
+  "type": "workday",
+  "token": "ebay|wd5|apply",
+  "group": "core",
+  "focus": "payments",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Salesforce",
+  "type": "workday",
+  "token": "salesforce|wd12|External_Career_Site",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Adobe",
+  "type": "workday",
+  "token": "adobe|wd5|external_experienced",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "NVIDIA",
+  "type": "workday",
+  "token": "nvidia|wd5|NVIDIAExternalCareerSite",
+  "group": "core",
+  "focus": "tech",
+  "tier": "top",
+  "atlanta": false
+ },
+ {
+  "name": "Target",
+  "type": "workday",
+  "token": "target|wd5|targetcareers",
+  "group": "core",
+  "focus": "tech",
+  "tier": "good",
+  "atlanta": false
+ },
+ {
+  "name": "Workday",
+  "type": "workday",
+  "token": "workday|wd5|Workday",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Autodesk",
+  "type": "workday",
+  "token": "autodesk|wd1|Ext",
+  "group": "core",
+  "focus": "tech",
+  "tier": "high",
+  "atlanta": false
+ },
+ {
+  "name": "Moniepoint",
+  "type": "greenhouse",
+  "token": "moniepoint",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Recurly",
+  "type": "workable",
+  "token": "recurly",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Spreedly",
+  "type": "lever",
+  "token": "spreedly",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "NMI",
+  "type": "greenhouse",
+  "token": "nmi",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Checkbook",
+  "type": "greenhouse",
+  "token": "checkbook",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Trolley",
+  "type": "greenhouse",
+  "token": "trolley",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "LemFi",
+  "type": "ashby",
+  "token": "lemfi",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Imprint",
+  "type": "ashby",
+  "token": "imprint",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Wingspan",
+  "type": "greenhouse",
+  "token": "wingspan",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Orb",
+  "type": "ashby",
+  "token": "orb",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "FastSpring",
+  "type": "greenhouse",
+  "token": "fastspring",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Zuora",
+  "type": "greenhouse",
+  "token": "zuora",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Paddle",
+  "type": "ashby",
+  "token": "paddle",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "TabaPay",
+  "type": "greenhouse",
+  "token": "tabapay",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Earnest",
+  "type": "greenhouse",
+  "token": "earnest",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Atomic Invest",
+  "type": "ashby",
+  "token": "atomic-invest",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Range",
+  "type": "ashby",
+  "token": "range",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Arcadia",
+  "type": "lever",
+  "token": "arcadia",
+  "group": "smaller",
+  "focus": "payments",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "CallRail",
+  "type": "greenhouse",
+  "token": "callrail",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": true
+ },
+ {
+  "name": "Roadie",
+  "type": "greenhouse",
+  "token": "roadie",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": true
+ },
+ {
+  "name": "PrizePicks",
+  "type": "greenhouse",
+  "token": "prizepicks",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": true
+ },
+ {
+  "name": "Agilysys",
+  "type": "greenhouse",
+  "token": "agilysys",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": true
+ },
+ {
+  "name": "Litmus",
+  "type": "ashby",
+  "token": "litmus",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "PostHog",
+  "type": "ashby",
+  "token": "posthog",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Supabase",
+  "type": "ashby",
+  "token": "supabase",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Help Scout",
+  "type": "ashby",
+  "token": "helpscout",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Close",
+  "type": "ashby",
+  "token": "close",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Ghost",
+  "type": "greenhouse",
+  "token": "ghost",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "WorkOS",
+  "type": "ashby",
+  "token": "workos",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Railway",
+  "type": "ashby",
+  "token": "railway",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Temporal",
+  "type": "ashby",
+  "token": "temporal",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "PlanetScale",
+  "type": "greenhouse",
+  "token": "planetscale",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Render",
+  "type": "ashby",
+  "token": "render",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Airbyte",
+  "type": "ashby",
+  "token": "airbyte",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Prefect",
+  "type": "ashby",
+  "token": "prefect",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Replit",
+  "type": "ashby",
+  "token": "replit",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Resend",
+  "type": "ashby",
+  "token": "resend",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Tailscale",
+  "type": "greenhouse",
+  "token": "tailscale",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Coder",
+  "type": "ashby",
+  "token": "coder",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Docker",
+  "type": "ashby",
+  "token": "docker",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Kong",
+  "type": "ashby",
+  "token": "kong",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Sanity",
+  "type": "ashby",
+  "token": "sanity",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Contentstack",
+  "type": "greenhouse",
+  "token": "contentstack",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Mattermost",
+  "type": "greenhouse",
+  "token": "mattermost",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Storyblok",
+  "type": "greenhouse",
+  "token": "storyblok",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Hex",
+  "type": "ashby",
+  "token": "hex",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "n8n",
+  "type": "ashby",
+  "token": "n8n",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Pendo",
+  "type": "greenhouse",
+  "token": "pendo",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "LogRocket",
+  "type": "lever",
+  "token": "logrocket",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Honeycomb",
+  "type": "greenhouse",
+  "token": "honeycomb",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Checkly",
+  "type": "ashby",
+  "token": "checkly",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Incident.io",
+  "type": "ashby",
+  "token": "incident",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Gamma",
+  "type": "ashby",
+  "token": "gamma",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Descript",
+  "type": "greenhouse",
+  "token": "descript",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ },
+ {
+  "name": "Linear",
+  "type": "ashby",
+  "token": "linear",
+  "group": "smaller",
+  "focus": "tech",
+  "tier": "mid",
+  "atlanta": false
+ }
+]

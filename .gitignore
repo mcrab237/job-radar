@@ -1,0 +1,5 @@
+node_modules/
+# Your data: résumés, jobs, applications, your OpenAI key. Never commit it.
+data/
+backups/
+.DS_Store
